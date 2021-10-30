@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/apple",
+    "name": "ddevcap/apple-socialite-provider",
     "description": "Apple OAuth2 Provider for Laravel Socialite",
     "keywords": [
         "apple",
